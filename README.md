@@ -15,7 +15,7 @@
 
  **Segundo Aluno - Leonardo Ferreira Messias**
 
-  ![foto02](lf.png)
+  ![foto2](lf.png)
 
   Link do seu GitHub: https://github.com/leofmessias
 
