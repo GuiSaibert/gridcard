@@ -5,15 +5,9 @@
  * Glawk
  * Emanuel
 
- **Vou apresentar para vocês algumas funcionalidades do nosso mais novo aplicativo no mundo das compras.**
+ **Vou apresentar para vocês foto de perfil e suas tecnologias principais com seu link github.**
  
- Crie listas personalizadas: Crie listas de compras para diferentes ocasiões (semanal, mensal, festas, etc.).  
- Compartilhe listas: Compartilhe suas listas com familiares ou amigos para compras em conjunto.  
- Sincronize suas listas: Acesse suas listas de qualquer lugar, através do seu celular, tablet ou computador.  
- Gerencie seus gastos: Acompanhe seus gastos e estabeleça um orçamento para suas compras.  
- Receba lembretes: Receba lembretes sobre itens que estão acabando ou sobre promoções especiais.  
- Organize seus produtos por categorias: Facilite a busca por itens específicos em suas listas.  
- Faça listas de desejos: Crie listas de desejos para presentes ou futuras compras.  
+ _Primeiro Aluno - Leonardo Ferreira Messias_
 
  ![foto](1.jpg)
 
