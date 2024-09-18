@@ -19,4 +19,6 @@
 
   Link do seu GitHub: https://github.com/leofmessias
 
-  **Abaixo uma demonstração do nosso layout de nosso incrivel aplicativo de gerenciamento de compras [REGIS]**
+  **Terceiro Aluno - GlawkHSilva**
+
+  ![foto3](gl.png)
