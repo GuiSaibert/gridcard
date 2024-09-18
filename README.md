@@ -7,7 +7,7 @@
 
  **Vou apresentar para vocês foto de perfil e suas tecnologias principais com seu link github.**
  
- _Primeiro Aluno - Leonardo Ferreira Messias_
+ __Primeiro Aluno - Maykon Macedo__
 
  ![foto](1.jpg)
 
