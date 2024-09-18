@@ -11,14 +11,12 @@
 
  ![foto](mk.png)
 
- **Ai você se pergunta, qual o benefício de usar esse aplicativo ?**
+ Link do seu GitHub: https://github.com/maykon2345
 
- Economize tempo: Encontre rapidamente o que precisa e evite idas desnecessárias ao supermercado.  
- Economize dinheiro: Planeje suas compras com antecedência e evite compras por impulso.  
- Reduza o desperdício: Controle seus estoques e evite que alimentos estraguem.  
- Organize sua vida: Tenha todas as suas listas de compras em um só lugar.  
- Mais praticidade: Faça suas compras de qualquer lugar, a qualquer hora.  
+ **Segundo Aluno - Leonardo Ferreira Messias**
 
-  ![foto02](img02.jpeg)
+  ![foto02](lf.png)
+
+  Link do seu GitHub: https://github.com/leofmessias
 
   **Abaixo uma demonstração do nosso layout de nosso incrivel aplicativo de gerenciamento de compras [REGIS]**
