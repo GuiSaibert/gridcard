@@ -9,7 +9,7 @@
  
  __Primeiro Aluno - Maykon Macedo__
 
- ![foto](1.jpg)
+ ![foto](mk.png)
 
  **Ai você se pergunta, qual o benefício de usar esse aplicativo ?**
 
