@@ -1,9 +1,9 @@
 # Grid Card - 5 Alunos da Sala
- * Leonardo Ferreira Messias
- * Guilherme Saibert da Silva
  * Maykon Macedo
- * Glawk
- * Emanuel
+ * Leonardo Ferreira Messias
+ * Glawck Silva
+ * Emanuel Couto
+ * Fabio Ghizoni
 
  **Vou apresentar para vocês foto de perfil e suas tecnologias principais com seu link github.**
  
@@ -30,4 +30,13 @@
  ![foto3](em.png)
 
 Link do seu GitHub: https://github.com/manoloadsc
+
+**Quinto e ultimo Aluno - Fabio Ghizoni**
+
+![foto3](fb.png)
+
+Link do seu GitHub: https://github.com/fabioghizoni-dev
+
+
+
  
